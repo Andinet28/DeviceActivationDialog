@@ -16,9 +16,9 @@
     ,
     {
         "device_id": "d702576f570cdea6",
-        "username": "user3",
+        "username": "user4",
         "password": "pass456",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]

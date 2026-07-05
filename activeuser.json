@@ -15,7 +15,7 @@
     },
     {
         "device_id": "d702576f570cdea6",
-        "username": "miracle",
+        "username": "user3",
         "password": "miracletech",
         "expirydate": "15-06-2027",
         "Allowoffline": true
@@ -25,5 +25,5 @@
         "username": "user4",
         "password": "pass456",
         "expirydate": "15-06-2037",
-        "Allowoffline": true
-]
+        "Allowoffline": false
+    ]
